@@ -15,6 +15,7 @@ p {
  }
  span{color: rgb(255, 0, 255);}
  body{ 
+.pozadina {
     background-image: url("Slike/1nebo.jpg");
   }
   a:link { 
